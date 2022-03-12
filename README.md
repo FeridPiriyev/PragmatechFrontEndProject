@@ -7,4 +7,4 @@
 ### Text Change :
 [kodlar](https://github.com/FeridPiriyev/Text-Change)
 
-### Repoda problem  var 
+### Repoda problem  var :(
